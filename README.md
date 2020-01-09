@@ -11,6 +11,8 @@ It was developed in Turkish.
 # use-cases
 
 1. In a segment (Ara) the user should be able to see a list of all existing sheep records, in addition to the ability of filtering the list by choosing a/some filtering criterias from a wide set of criterias.
+This is a small example:
+![](Ara.gif)
 
 2. The user should be able to add an (adult sheep) in a segment (yeni hayvan) that should also show a graphical representation of the numbers of the existing adult sheep kinds (male, non-pregnant female , pregnant-female etc..) the graph should refresh dynamically after adding a new one.
 
