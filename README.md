@@ -5,7 +5,7 @@ This repository is dedicated to show my abilities in Wpf and software developmen
 The codes are owned by Imaginite Studios and they are private.
 
 # overview
-This app is a sheep darm automation system, it can be used by farmers to organize , visualize and analyse their animal's data.
+This app is a sheep farm automation system, it can be used by farmers to organize , visualize and analyse their animal's data.
 It was developed in Turkish.
 
 # use-cases
